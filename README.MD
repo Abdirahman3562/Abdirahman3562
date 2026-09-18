@@ -44,42 +44,6 @@ const abdirahman = {
     "Responsive User Interfaces"
   ],
 
-  frontend: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "React Native",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "PHP"
-  ],
-
-  databases: [
-    "MongoDB",
-    "MySQL",
-    "Firebase"
-  ],
-
-  aiTools: [
-    "ChatGPT",
-    "Claude",
-    "Cursor",
-    "Antigravity"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "WordPress"
-  ],
-
   goal: "Build intelligent, scalable and useful software 🚀"
 };
 ```
@@ -92,73 +56,9 @@ const abdirahman = {
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 📚 **AI-Powered Book Store**       | Modern bookstore application with intelligent features and a clean user experience.                        | [View Repository](https://github.com/Abdirahman3562/Bookstore)                   |
 | 🏥 **Hospital Appointment System** | Hospital appointment management system for managing healthcare appointments and workflows.                 | [View Repository](https://github.com/Abdirahman3562/Hospital-Appointment-System) |
-| 🌐 **Xirfadbare Website**          | Modern responsive website project focused on a clean and accessible web experience.                        | [View Repository](https://github.com/Abdirahman3562/xirfadbare-website)          |
-| ⚛️ **React Exercises**             | Collection of React exercises and practical projects created while strengthening React development skills. | [View Repository](https://github.com/Abdirahman3562/Exercises-in-React)          |
-| 💻 **Level One Projects**          | Collection of development projects and practical programming exercises.                                    | [View Repository](https://github.com/Abdirahman3562/Level-One-Projects)          |
-| 🚀 **Level Two Projects**          | More advanced development projects focused on improving real-world programming skills.                     | [View Repository](https://github.com/Abdirahman3562/Level-Two-Projects)          |
+| 🌐 **Xirfadbare Website**          | Modern responsive website project focused on a clean and accessible web experience.                        | [View Repository](https://github.com/Abdirahman3562/xirfadbare-website)         
 
----
 
-## 🏗️ Systems & Projects I've Worked On
-
-### 🏥 CarePlus Clinic Management System
-
-A role-based clinic management platform built with:
-
-* React
-* Tailwind CSS
-* Firebase
-* Authentication & Role-Based Access
-* Admin Dashboard
-* Doctor Management
-* Patient Registration
-* Doctor Availability
-* Appointment Booking
-
-### 🍽️ Multi-Restaurant SaaS Platform
-
-A multi-tenant restaurant platform designed to support:
-
-* Multiple restaurants
-* Restaurant-specific branding
-* Products & categories
-* Orders
-* Admin dashboards
-* Customer ordering
-* Tenant-based data isolation
-* Custom domains & subdomains
-
-**Technologies:** React, Tailwind CSS, Node.js, Express.js and MongoDB.
-
-### 🚚 Distribution Management SaaS
-
-Currently building a modern multi-company distribution system designed around:
-
-* Company management
-* Customers
-* Products
-* Orders
-* Deliveries
-* Collections
-* Dashboards
-* Role-based access
-* Multi-tenant architecture
-
-### 🏥 Hospital Management System
-
-Worked on real-world hospital management modules including:
-
-* Pharmacy
-* Laboratory
-* Billing
-* Accounting
-* General Journal
-* Employee Payroll
-* Financial Reports
-* Balance Sheet
-* Patient Transactions
-
----
 
 ## 🧰 Tech Stack
 
@@ -209,20 +109,20 @@ Worked on real-world hospital management modules including:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdirahman3562&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdirahman3562&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdirahman3562&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdirahman3562&theme=radical" height="180"/>
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdirahman3562&theme=radical&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=f59e0b&currStreakLabel=a855f7" width="500"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdirahman3562&theme=radical&hide_border=true" width="500"/>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdirahman3562&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdirahman3562&theme=radical" width="100%"/>
 </p>
 
 ---
@@ -230,7 +130,11 @@ Worked on real-world hospital management modules including:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdirahman3562/Abdirahman3562/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdirahman3562/Abdirahman3562/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdirahman3562/Abdirahman3562/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Abdirahman3562/Abdirahman3562/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
