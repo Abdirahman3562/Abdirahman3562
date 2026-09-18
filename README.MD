@@ -105,16 +105,14 @@ const abdirahman = {
 ```
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdirahman3562&theme=radical" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdirahman3562&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdirahman3562&theme=radical&hide_border=true" width="500"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Abdirahman3562&theme=radical&hide_border=true"
+    width="500"
+    alt="Abdirahman's GitHub Streak"
+  />
 </p>
 
 ---
