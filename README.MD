@@ -74,11 +74,6 @@ const abdirahman = {
   <img src="https://skillicons.dev/icons?i=nodejs,php,mongodb,mysql,firebase&perline=5" />
 </p>
 
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress&perline=6" />
-</p>
 
 ### 🤖 AI-Assisted Development
 
@@ -141,6 +136,10 @@ const abdirahman = {
 ---
 
 ## 🌐 Connect With Me
+
+<a href="https://abdirahmanmohamed.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge&logoColor=white"/>
+</a>
 
 <p align="center">
   <a href="mailto:abdirahmaanmoha2022@gmail.com">
